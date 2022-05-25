@@ -1,0 +1,6 @@
+\babel@toc {brazil}{}
+\contentsline {chapter}{Cap\'{\i }tulo\ I\relax .\enspace DE LA UNIVERSIDAD}{2}{}%
+\contentsline {section}{\numberline {I\relax .\enspace }DE LA IDENTIDAD, ORIGEN Y autonomía}{2}{}%
+\contentsline {section}{\numberline {II\relax .\enspace }La estructuración de las leyes}{2}{}%
+\contentsline {chapter}{Cap\'{\i }tulo\ II\relax .\enspace Definiciones preliminares}{2}{}%
+\contentsline {section}{\numberline {I\relax .\enspace }La estructuración de las leyes}{2}{}%

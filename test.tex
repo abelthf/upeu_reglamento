@@ -1,0 +1,25 @@
+\documentclass{report}
+\usepackage{tocloft}
+\RequirePackage{ifxetex}
+\ifxetex
+\RequirePackage{fontspec}
+\RequirePackage{polyglossia}
+\setmainlanguage{spanish}
+\else
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[spanish,brazil]{babel}
+\fi
+
+\setlength{\cftchapnumwidth}{0pt}
+\renewcommand{\cftchappresnum}{Título~}
+\renewcommand{\cftchapaftersnum}{.}
+\renewcommand{\cftchapaftersnumb}{\newline}
+\renewcommand{\cftchapdotsep}{\cftdotsep}
+
+
+
+\begin{document}
+\tableofcontents
+\chapter[]{Un título}
+\chapter{Otro título}
+\end{document}
